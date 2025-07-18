@@ -2,13 +2,16 @@
 
 
 ## Introduction
-
+<details close>
+<summary><b>Our Motivation and Contribution:</b></summary>
+    
 ![CGI2025_1](https://github.com/user-attachments/assets/ce4e2bbc-5649-4fcf-b84a-6ee90f5409d0)
 
 ![CGI2025_2](https://github.com/user-attachments/assets/1b232229-290b-4d04-8f84-f4cc937c2eff)
 
+Most existing methods fail to dynamically adapt to frequency-specific information, limiting their ability to reconstruct fine texture details. So we use bidirectional wavelet transform to decompose image features into 8 complementary frequencies and adaptively enhance them separately through attention mechanism.
 ![CGI2025_3](https://github.com/user-attachments/assets/8325dee5-60c0-4f38-a685-ac85ee7d0d8e)
-
+</details>
 
 ## Network Architecture
 
