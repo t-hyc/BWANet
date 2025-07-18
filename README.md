@@ -3,12 +3,18 @@
 
 ## Introduction
 
-This repository is the **official implementation** of the paper, "BWANet: A low-light image detail enhancement network with multi-scale large receptive fields", where more implementation details are presented.
+![CGI2025_1](https://github.com/user-attachments/assets/ce4e2bbc-5649-4fcf-b84a-6ee90f5409d0)
+
+![CGI2025_2](https://github.com/user-attachments/assets/1b232229-290b-4d04-8f84-f4cc937c2eff)
+
+![CGI2025_3](https://github.com/user-attachments/assets/8325dee5-60c0-4f38-a685-ac85ee7d0d8e)
+
 
 ## Network Architecture
 
 ![Figure 1](https://github.com/user-attachments/assets/6f8e6a89-3088-41ba-9236-d6eca9e3b891)
 
+![Figure_2](https://github.com/user-attachments/assets/d4ea8e02-1351-472c-9056-c5cab11f4488)
 
 ## Dataset
 
@@ -98,16 +104,18 @@ We also provide download links for LIME, NPE, MEF, DICM, and VV datasets that ha
 
 <details close>
 <summary><b>Performance on LOL-v1,LOL-v2:</b></summary>
+<img width="889" height="705" alt="image" src="https://github.com/user-attachments/assets/2a63fe17-3cbb-4833-86f9-7c914d1fc0c9" />
 
-![Figure 4](https://github.com/user-attachments/assets/e0f6f3ef-d8a6-4c91-9604-3d4894f838f3)
+![Figure_3](https://github.com/user-attachments/assets/a4eeca83-c294-41b6-b559-4b0c1378d2e0)
 
 
 </details>
 
 <details close>
 <summary><b>Performance on LIME, NPE, MEF, DICM, and VV:</b></summary>
+<img width="907" height="367" alt="image" src="https://github.com/user-attachments/assets/721d54e7-b380-4bdb-8def-3abc0e6cd39c" />
 
-![Figure 5](https://github.com/user-attachments/assets/2f53c3c2-3513-4d28-9b77-2f9d289d13e8)
+![Figure_4](https://github.com/user-attachments/assets/8360982c-e46f-4092-ab9b-ff7ab1b95b5c)
 
 
 </details>
@@ -158,7 +166,14 @@ You need to modify the config for your own training environment
 If you find our work useful for your research, please cite our paper
 
 ```
-xxxxxx
+@inproceedings{tang2025bwanet,
+  title={BWANet: A Low-Light Image Detail Enhancement Network with Multi-Scale Large Receptive Fields},
+  author={Tang, Haiyuan},
+  booktitle={Computer Graphics International Conference},
+  pages={?--?},
+  year={2025},
+  organization={Springer}
+}
 ```
 
 ## Contact
