@@ -25,7 +25,11 @@
 
 ![Figure 1](https://github.com/user-attachments/assets/6f8e6a89-3088-41ba-9236-d6eca9e3b891)
 
+<details close>
+<summary><b>The structure of BWAB:</b></summary>
+
 ![Figure_2](https://github.com/user-attachments/assets/d4ea8e02-1351-472c-9056-c5cab11f4488)
+</details>
 
 ## Dataset
 
