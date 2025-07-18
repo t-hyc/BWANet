@@ -12,7 +12,8 @@
 
 <details close>
 <summary><b>Our Motivation and Contribution (BWAB):</b></summary>
-Most existing methods fail to dynamically adapt to frequency-specific information, limiting their ability to reconstruct fine texture details. So we use bidirectional wavelet transform to decompose image features into 8 complementary frequencies (1 low-frequency information + 7 high-frequency information) and adaptively enhance them separately through attention mechanism, in order to restore the fine details and texture of the image.
+    Most existing methods fail to dynamically adapt to frequency-specific information, limiting their ability to reconstruct fine texture details. So we use bidirectional wavelet transform to decompose image features into 8 complementary frequencies (1 low-frequency information + 7 high-frequency information) and adaptively enhance them separately through attention mechanism, in order to restore the fine details and texture of the image.
+    
 ![CGI2025_3](https://github.com/user-attachments/assets/8325dee5-60c0-4f38-a685-ac85ee7d0d8e)
 </details>
 
